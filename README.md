@@ -16,7 +16,7 @@ Brain Data -> Machine Learning Model (XGBoost) -> Prediction of Psychiatric Diso
 Metrics_MultiClass.ipynb - Code for running the benchmarks for the different datasets
 Test_Set_EEG.csv - EEG data that DO NOT contain any specific disorders. This is only used to judge the output of the final model
 Train_and_Validate_EEG.csv - EEG data with main and specific disorders
-Neurotech@Rice Challenge Document 2025 Rice Datathon.pdf - Challenge Document
+Neurotech@Rice Challenge Document 2025 Rice Datathon.pdf - Challenge Document specifying what the outputs should be
 
 # References
 
